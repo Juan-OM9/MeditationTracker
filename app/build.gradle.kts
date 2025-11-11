@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.hugoguerrero.meditacion_y_autocuidado"
+    namespace = "com.JuanGilberto.MeditationTracker"
     compileSdk = 36
 
     defaultConfig {
